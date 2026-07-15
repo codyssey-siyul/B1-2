@@ -83,11 +83,19 @@
 
  + **최종 광고 영상**  
 
-\-파일명: RootCoffee-Branding-Video.mp4  
-\-길이: 10초  
-\-해상도: 1080x1080  
-\-프레임레이트: 29fps  
+   [최종 광고 영상](images/RootCoffee-Branding-Video.mp4)  
+
+   \-파일명: RootCoffee-Branding-Video.mp4  
+   \-길이: 10초  
+   \-해상도: 1080x1080  
+   \-프레임레이트: 29fps  
 
  + **보너스 광고 영상**
 
-\-파일명: RootCo
+   [보너스 광고 영상](images/RootCoffee-Bonus-Video.mp4)  
+
+   \-파일명: RootCoffee-Bonus-Video.mp4  
+   \-길이: 13초  
+   \-해상도: 1920x1080  
+   \-프레임레이트: 29fps  
+ 
