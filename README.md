@@ -81,4 +81,13 @@
 
 ## 광고 영상 파일  
 
- + 파일명: Root Coffee-Branding-Video.mp4  
+ + **최종 광고 영상**  
+
+\-파일명: RootCoffee-Branding-Video.mp4  
+\-길이: 10초  
+\-해상도: 1080x1080  
+\-프레임레이트: 29fps  
+
+ + **보너스 광고 영상**
+
+\-파일명: RootCo
